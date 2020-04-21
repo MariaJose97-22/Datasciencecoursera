@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587507487026.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2351453479",
+    "id" : "91E4093",
+    "lastKnownWriteTime" : 1587507700,
+    "last_content_update" : 1587507700269,
+    "path" : "C:/Users/Maria Jose Figueroa/Desktop/Homework/Helloworld.Rmd",
+    "project_path" : "Helloworld.Rmd",
+    "properties" : {
+        "cursorPosition" : "12,92",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
